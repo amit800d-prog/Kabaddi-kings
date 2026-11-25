@@ -1,0 +1,6 @@
+{
+  "name": "Kabaddi Kings",
+  "description": "The premium home for competitive Kabaddi gaming, featuring quick matches, tournament modes, professional player auctions, statistics, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
